@@ -1,0 +1,6 @@
+.test2 {
+    transition: all 1s;
+}
+.active {
+    transform: rotateZ(-180deg);
+}
